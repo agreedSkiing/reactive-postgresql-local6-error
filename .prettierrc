@@ -1,0 +1,15 @@
+{
+    "plugins": [
+        "@prettier/plugin-xml",
+        "prettier-plugin-java",
+        "prettier-plugin-properties"
+    ],
+    "useTabs": false,
+    "endOfLine": "lf",
+    "trailingComma": "none",
+    "semi": true,
+    "xmlWhitespaceSensitivity": "ignore",
+    "htmlWhitespaceSensitivity": "ignore",
+    "bracketSameLine": false,
+    "singleAttributePerLine": true
+}
